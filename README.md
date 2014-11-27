@@ -8,6 +8,7 @@ Put your name below this line, in the format `* [Name](http://github.com/githubu
 
 * [Joe Bloggs](http://github.com/happilyltd)
 * [Will Roissetter](http://github.com/goodoldwill)
+* [Jona](http://github.com/babamufasa)
 
 #### Instructional Team
 
