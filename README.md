@@ -6,6 +6,10 @@
 
 Put your name below this line, in the format `* [Name](http://github.com/githubusername)`. Feel free to just put your username instead of your real name where it says "Name".
 
+* [JK](http://github.com/JKShark)
+
+
 #### Instructional Team
 
 * [Dan](http://github.com/basicallydan)
+
