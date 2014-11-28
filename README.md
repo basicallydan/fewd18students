@@ -13,3 +13,4 @@ Put your name below this line, in the format `* [Name](http://github.com/githubu
 #### Instructional Team
 
 * [Dan](http://github.com/basicallydan)
+* [Hugh](http://github.com/hugh_jass)
